@@ -12,10 +12,10 @@ const LandingPage = (props) => {
           <div className="d-sm-flex align-items-center justify-content-between">
             <div>
               <h1>
-                <i>"The only limit to our realization of tomorrow is our doubts of today."</i>
+                <i>"Educate a man and you educate an individual; educate a woman and you educate a family."</i>
               </h1>
               <p className="lead my-4 me-5 text-lg-end text-sm-center">
-                - Franklin D. Roosevelt
+                - Jyotirao Phule
               </p>
               {/* <button
                 className="btn btn-primary btn-lg"

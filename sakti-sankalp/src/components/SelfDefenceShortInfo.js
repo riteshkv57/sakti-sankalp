@@ -16,7 +16,7 @@ const SelfDefenceShortInfo = (props) => {
               href="/selfdefence"
             />
 
-            <ImageComponent imageUrl="https://media.istockphoto.com/photos/female-athlete-practicing-with-trainer-picture-id835151772?b=1&k=20&m=835151772&s=170667a&w=0&h=N3Psux_t60znssiUOYnBv7u81EBF8yRjtDUQSnAK5PY=" />
+            <ImageComponent imageUrl="https://www.sosparty.io/imgs/module-grids/171_women-self-defense-workshop-for-corporates.webp" />
           </div>
         </div>
       </section>

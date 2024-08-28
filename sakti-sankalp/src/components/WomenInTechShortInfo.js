@@ -19,7 +19,7 @@ const WomenInTechShortInfo = (props) => {
               href="/womenintech"
             />
 
-            <ImageComponent imageUrl="https://web-static.wrike.com/blog/content/uploads/2018/03/Women_in_Tech_Know_Their_Worth_Its_Time-Everyone_Else_Does_Too_1.jpg?av=461f21a4d35a6149d69602c26a6400d5" />
+            <ImageComponent imageUrl="https://mondo.com/wp-content/uploads/2023/02/women-in-tech-business-benefits-2023.jpg" />
           </div>
         </div>
       </section>

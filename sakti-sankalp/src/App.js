@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import Footer from "./components/Footer";
 import WomenInTech from "./views/WomenInTech";
 import Home from "./views/Home";
@@ -13,34 +13,45 @@ import Login from "./views/Login";
 import Signup from "./views/Signup";
 
 const App = () => {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  useEffect(() => {
+    // Check if the token exists in localStorage
+    const token = localStorage.getItem("authToken");
+    setIsLoggedIn(!!token); // Set isLoggedIn to true if token exists
+  }, []);
+
+  const checkloginfirst = (Component) => {
+    return isLoggedIn ? <Component /> : <Login />;
+  };
+
   return (
-    <div style={{backgroundColor:"$d3e5e9"}}>
+    <div style={{ backgroundColor: "$d3e5e9" }}>
       <ReactNavbar />
       <Route path="/">
         <Home />
       </Route>
       <Route path="/selfdefence">
-        <SelfDefence />
+        {checkloginfirst(SelfDefence)}
       </Route>
       <Route path="/womenintech">
-        <WomenInTech />
+        {checkloginfirst(WomenInTech)}
       </Route>
       <Route path="/womenactivists">
-        <WomenActivists />
+        {checkloginfirst(WomenActivists)}
       </Route>
       <Route path="/womensafety">
-        <WomenSafetyLaws />
+        {checkloginfirst(WomenSafetyLaws)}
       </Route>
       <Route path="/ngo">
-        <NGO />
+        {checkloginfirst(NGO)}
       </Route>
       <Route path="/newslist">
-        <NewsList />
+        {checkloginfirst(NewsList)}
       </Route>
       <Route path="/login">
         <Login />
       </Route>
-
       <Route path="/signup">
         <Signup />
       </Route>

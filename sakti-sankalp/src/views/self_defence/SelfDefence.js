@@ -8,7 +8,7 @@ const moves = {
     title: "Hammer Strike",
     subTitle:
       "Using your car keys is one of the easiest ways to defend yourself. Don’t use your fingernails, because you’re more at risk to injure your hands. Instead, if you feel unsafe while walking at night, have your keys stick out from one side of your fist for hammer strikes.",
-    linkToVideo: "https://thumbs.gfycat.com/FluffyFlashyCockroach-mobile.mp4",
+    linkToVideo: "https://www.youtube.com/embed/v1333hAytIY",
     list: [
       "Hold your key ring in a tight fist, like holding a hammer, with keys extending from the side of your hand.",
       "Thrust downward toward your target.",
@@ -19,7 +19,7 @@ const moves = {
     subTitle:
       "If someone is coming at you from the front, a groin kick may deliver enough force to paralyze your attacker, making your escape possible.",
     linkToVideo:
-      "https://thumbs.gfycat.com/MetallicBoilingGermanshorthairedpointer-mobile.mp4",
+      "https://www.youtube.com/embed/S9UKgw2eprs",
     list: [
       "Stabilize yourself as best you can.",
       "Lift your dominant leg off the ground and begin to drive your knee upward.",
@@ -32,7 +32,7 @@ const moves = {
     subTitle:
       "This move can cause damage to the nose or throat. To execute, get in front of your attacker as much as is possible.",
     linkToVideo:
-      "https://thumbs.gfycat.com/InnocentImpassionedBrocketdeer-mobile.mp4",
+      "https://www.youtube.com/embed/Gm0SyEqc7ns",
     list: [
       "With your dominant hand, flex your wrist.",
       "Aim for either the attacker’s nose, jabbing upward from the nostrils, or underneath the attacker’s chin, jabbing upward at the throat.",
@@ -45,7 +45,7 @@ const moves = {
     subTitle:
       "If your attacker comes from behind and traps your arms (this is similar to a bear hug, but you won’t be able to move as freely)",
     linkToVideo:
-      "https://thumbs.gfycat.com/SarcasticSilverDouglasfirbarkbeetle-mobile.mp4",
+      "https://www.youtube.com/embed/sY-P5GBwggU",
     list: [
       "First reaction should be to stop your attacker’s arms from going higher into a headlock. Shift your hips to one side. This gives an opening for strikes to the groin with open-handed slaps.",
       "Bring your hand back up to your arms and raise your opposite elbow to turn into the wrap. Keep your arms tight to your chest as you’re turning in.",
@@ -57,7 +57,7 @@ const moves = {
     subTitle:
       "When the attacker locks their arm around your head from the side, your first instinct should be to avoid getting choked.",
     linkToVideo:
-      "https://thumbs.gfycat.com/NegativePlaintiveCatfish-mobile.mp4",
+      "https://www.youtube.com/embed/ZnAqAH2JB-E",
     list: [
       "Turn into the attacker’s side as much as possible to avoid being choked.",
       "With your hand that’s furthest away, strike the groin with open-handed slaps until you have enough mobility to turn your head all the way out to disengage.",
@@ -68,7 +68,7 @@ const moves = {
     subTitle:
       "If your attacker is in close range and you’re unable to get enough momentum to throw a strong punch or kick, use your elbows.",
     linkToVideo:
-      "https://thumbs.gfycat.com/FrenchFatGalapagosmockingbird-mobile.mp4",
+      "https://www.youtube.com/embed/7koJo7M_VDY",
     list: [
       "If you can, stabilize yourself with a strong core and legs to ensure a powerful blow.",
       "Bend your arm at the elbow, shift your weight forward, and strike your elbow into your attacker’s neck, jawline, chin, or temple. These are all effective targets.",
@@ -80,7 +80,7 @@ const moves = {
     subTitle:
       "Depending on how you’re standing when you’re initially attacked, you may be in a better position for variations on the elbow strike.",
     linkToVideo:
-      "https://thumbs.gfycat.com/DecimalWeightyGrayreefshark-mobile.mp4",
+      "https://www.youtube.com/embed/nLtPO6EjDX0",
     list: [
       "Lift your elbow to shoulder height.",
       "Pivot on same-side foot and allow your hips to rotate, creating more momentum into the front part of your elbow when you strike.",
@@ -91,7 +91,7 @@ const moves = {
     subTitle:
       "For cases where the attacker is coming from behind, you’ll want to use this move. Focus on getting low and creating space to free yourself.",
     linkToVideo:
-      "https://thumbs.gfycat.com/AmusingGargantuanAnaconda-mobile.mp4",
+      "https://www.youtube.com/embed/DlYxxuK5MLg",
     list: [
       "Bend forward from the waist. This shifts your weight forward, making it more difficult for your attacker to pick you up. It also gives you a better angle to throw elbows from side to side to the attacker’s face.",
       "Turn into the attacker with one of your elbows and continue counterattacking.",

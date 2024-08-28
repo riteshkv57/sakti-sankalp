@@ -6,7 +6,7 @@ const WomenActivistsShortInfo = ({ imgurl, title, content, reverse }) => {
     <>
       <Row className={`my-5 ${reverse} `}>
         <Col xs={12} lg={6} md={6} className="mb-3">
-          <Image width="100%"  src={imgurl} />
+          <Image width="100%" src={imgurl} />
         </Col>
         <Col
           xs={12}
