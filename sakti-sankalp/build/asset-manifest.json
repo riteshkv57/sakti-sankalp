@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.cb11f5e6.js",
+    "static/media/w_logo.svg": "/static/media/w_logo.b3c2a1e547bebfe1cb712908ec1a68f2.svg",
+    "static/media/w2_logo.svg": "/static/media/w2_logo.e9de227e197b95feef2fcdb9513883e4.svg",
+    "index.html": "/index.html",
+    "main.cb11f5e6.js.map": "/static/js/main.cb11f5e6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cb11f5e6.js"
+  ]
+}
